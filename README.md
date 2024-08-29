@@ -1,4 +1,4 @@
-# Tracking emission in high-speed images within ROI in shock compressed pressed particle-chip 
+# FijiEmissionInChip
 
 This code is a macro script designed for processing a set of images related to particle analysis, using the ImageJ/Fiji software. It performs the following tasks:
 
