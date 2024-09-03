@@ -1,6 +1,8 @@
 # FijiEmissionInChip
 
 This code is a macro script designed for processing a set of images related to particle analysis, using the ImageJ/Fiji software. It performs the following tasks:
+The code has been used for work published in : "Sellan,D., X.,Salvati III, L.,Valluri, S.K., and Dlott, D.D., Seeing inside shocked plastic-bonded explosives. AIP Conf. Proc., 2023.
+2844 (1) : 260002." 
 
 # 1. Initial Setup #
 
